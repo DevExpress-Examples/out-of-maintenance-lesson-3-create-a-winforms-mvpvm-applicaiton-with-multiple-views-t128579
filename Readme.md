@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.cs](./CS/MyMvpvmApplication/MainForm.cs)**
+* [Task.cs](./CS/MyMvpvmApplication/Model/Task.cs)
+* [TaskCollectionViewModel.cs](./CS/MyMvpvmApplication/ViewModels/TaskCollectionViewModel.cs)
+* [TaskDetailViewModel.cs](./CS/MyMvpvmApplication/ViewModels/TaskDetailViewModel.cs)
+* [TaskCollectionView.cs](./CS/MyMvpvmApplication/Views/TaskCollectionView.cs)
+* [TaskDetailView.cs](./CS/MyMvpvmApplication/Views/TaskDetailView.cs)
+<!-- default file list end -->
 # Lesson 3 - Create a WinForms MVPVM applicaiton with multiple Views
 
 
