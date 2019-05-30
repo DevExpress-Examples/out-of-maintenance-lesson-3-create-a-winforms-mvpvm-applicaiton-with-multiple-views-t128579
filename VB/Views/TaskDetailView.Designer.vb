@@ -58,8 +58,8 @@ Namespace MyMvpvmApplication.Views
 			Me.dataLayoutControl1.Location = New System.Drawing.Point(0, 0)
 			Me.dataLayoutControl1.Name = "dataLayoutControl1"
 			Me.dataLayoutControl1.OptionsCustomizationForm.DesignTimeCustomizationFormPositionAndSize = New System.Drawing.Rectangle(425, 198, 450, 350)
-            Me.dataLayoutControl1.OptionsView.AutoSizeModeInLayoutControl = Windows.Forms.AutoSizeMode.GrowOnly
-			Me.dataLayoutControl1.Root = Me.layoutControlGroup1
+            Me.dataLayoutControl1.OptionsView.AutoSizeModeInLayoutControl = System.Windows.Forms.AutoSizeMode.GrowOnly
+            Me.dataLayoutControl1.Root = Me.layoutControlGroup1
 			Me.dataLayoutControl1.Size = New System.Drawing.Size(306, 197)
 			Me.dataLayoutControl1.TabIndex = 0
 			Me.dataLayoutControl1.Text = "dataLayoutControl1"
